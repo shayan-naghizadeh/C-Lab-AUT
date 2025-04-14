@@ -16,6 +16,8 @@
 
 ---
 
+
+
 ## ⚙️ What you'll learn
 
 - 🧱 Basics of C (syntax, variables, types)  
