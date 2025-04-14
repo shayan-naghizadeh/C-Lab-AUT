@@ -1,6 +1,6 @@
 # 💻 AUT C Programming Workshop
 
-> Welcome, future hackers! 😎  
+ 
 > This repo is your **starter pack** for learning C programming at **AUT**.  
 > Slides, samples, and some low-level magic all in one place.  
 > Let’s get coding! 🧠✨
