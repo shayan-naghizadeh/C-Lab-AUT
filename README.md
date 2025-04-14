@@ -1,38 +1,28 @@
-# C-Lab-AUT
 # 💻 AUT C Programming Workshop
 
-Welcome to the official repository for the **C Programming Workshop** at **AUT (Amirkabir University of Technology)**.
-
-This course is designed for beginners to get hands-on experience with the fundamentals of programming using the C language.
-
----
-
-## 📂 Contents
-
-- 📁 `slides/` — All lecture slides in PDF format  
-- 📁 `code-samples/` — Sample C programs covered during the sessions  
-- 📁 `assignments/` — Practice exercises and assignments  
-- 📄 `README.md` — You’re here!
+> Welcome, future hackers! 😎  
+> This repo is your **starter pack** for learning C programming at **AUT**.  
+> Slides, samples, and some low-level magic all in one place.  
+> Let’s get coding! 🧠✨
 
 ---
 
-## 🧠 Topics Covered
+## 🧭 What's in here?
 
-- Basics of C syntax and structure  
-- Variables, data types, and operators  
-- Control flow (if, switch, loops)  
-- Functions and modular programming  
-- Pointers and memory  
-- Arrays and strings  
-- File handling  
-- Debugging and compiling with GCC
+- 📁 `slides/` — All lecture slides (PDF)  
+- 📁 `code-samples/` — Sample C code (like the ones we write in class)  
+- 📁 `assignments/` — Practice problems & challenges  
+- 📄 `README.md` — You’re reading it 😄
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ What you'll learn
 
-To compile and run C code from this repo, you can use `gcc`:
+- 🧱 Basics of C (syntax, variables, types)  
+- 🔁 Loops, conditions, and control flow  
+- 🧠 Functions and modular thinking  
+- 📦 Arrays, strings, and pointers (yeah, they bite 🐍)  
+- 📂 File I/O  
+- 🛠️ Compiling and debugging with GCC
 
-```bash
-gcc filename.c -o output
-./output
+---
