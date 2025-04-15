@@ -2,7 +2,7 @@
 
  
 > This repo is your **starter pack** for learning C programming at **AUT**.  
-> Slides, samples, and some low-level magic all in one place.  
+> Slides, samples, and some magic all in one place.  
 > Let’s get coding! 🧠✨
 
 ---
