@@ -3,7 +3,7 @@
  
 > This repo is your **starter pack** for learning C programming at **AUT**.  
 > Slides, samples, and some magic all in one place.  
-> Let’s get coding! 🧠✨
+> Let’s get coding! 
 
 ---
 
@@ -12,7 +12,7 @@
 - 📁 `slides/` — All lecture slides (PDF)  
 - 📁 `code-samples/` — Sample C code (like the ones we write in class)  
 - 📁 `assignments/` — Practice problems & challenges  
-- 📄 `README.md` — You’re reading it 😄
+- 📄 `README.md` — You’re reading it 
 
 ---
 
